@@ -16,10 +16,8 @@ export default function Weather(props) {
    
     return (
         <ThreeDots
-        
-        color="purple"
+        color="white"
         width={100}
-    
         />
     )
 }
